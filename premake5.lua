@@ -22,6 +22,11 @@ project "ImGui"
 		"imgui_demo.cpp"
 	}
 
+    disablewarnings
+    {
+        "6011"
+    }
+
 	filter "system:windows"
 		systemversion "latest"
 
