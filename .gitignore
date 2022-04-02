@@ -1,6 +1,7 @@
 ## Project specifics
 bin
 bin-int
+**.vcxproj
 
 ## OSX artifacts
 .DS_Store
